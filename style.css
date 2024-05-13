@@ -1,0 +1,28 @@
+.welcome{
+    margin-left: 3%;
+    font-size: 40px;
+}
+.color-green{
+    color: rgb(59, 233, 59);
+}
+
+.ngo{
+    margin-top: 2%;
+}
+
+.para-about-ssaylani{
+    font-size: medium;
+    float: right;
+}
+.welcome, .side-pics{
+    display: inline-block;
+    width: 50%;
+    max-width: 576px;
+}
+.side-pics >img{
+    margin-left: 5%;
+    margin-right: 3%;
+    width:500px;
+}
+
+
